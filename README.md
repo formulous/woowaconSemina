@@ -1,1 +1,7 @@
-# woowaconSemina
+# woowaconSemina 
+
+### 코드리뷰의 효능
+* 코드의 일관성 유지
+* 로직 더블 체크
+* 코드 중복 제거
+* 함께 성장
